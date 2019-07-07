@@ -420,7 +420,9 @@ form.search_hover {
 	width: 326px;
 	height: 326px;
 }
-
+.sn_reciepe_imgnutri img {
+    border-radius: 50%;
+}
 
 .sn_reciepe_img {
 	border: 10px solid rgba(136, 192, 87, 0.2);
