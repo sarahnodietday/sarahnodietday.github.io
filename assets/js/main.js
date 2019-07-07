@@ -104,6 +104,8 @@
 		}
 	});
 	
+
+
 	//google map
 	var googleMapSelector = $('#contactgoogleMap'),
 		myCenter = new google.maps.LatLng(40.7179835,-74.1373195);
@@ -128,7 +130,7 @@
 					"visibility": "off"
 				}]
 			}, {
-				"featureType": "landscape",
+				"featureType": "landscape", 
 				"elementType": "all",
 				"stylers": [{
 					"saturation": -100

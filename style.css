@@ -825,6 +825,10 @@ form.search_hover {
 	height: 288px;
 	width: 100%;
 }
+#mapid { 
+	height: 288px;
+	width: 100%;
+}
 .widget_logo {
 	margin-bottom: 55px;
 }
