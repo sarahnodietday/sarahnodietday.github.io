@@ -223,13 +223,13 @@
 			bmiFeet = parseInt($this.find('input.feet').val(), 10),
 			bmiInches = parseInt($this.find('input.inches').val(), 10),
 			bmiInches = bmiInches ? bmiInches : 0,
-			bodyHeightInMeter = ((bmiFeet * 12) +  bmiInches) * 0.0254,
+			bodyHeightInMeter = ((bmiFeet) +  bmiInches),
 			bmiWeightInPound = parseInt($this.find('.weight').val(), 10),
-			bodyWeightInKG = bmiWeightInPound * 0.453592,
+			bodyWeightInKG = bmiWeightInPound,
 			BMI = bodyWeightInKG / (bodyHeightInMeter * bodyHeightInMeter),
 			roundBMI=Math.round(BMI * 100) / 100;
 		
-		$result.text(bodyWeightInKG / (bodyHeightInMeter * bodyHeightInMeter));
+		$result.text(roundBMI);
 	});
     
     //Ajax Contact Form Start
