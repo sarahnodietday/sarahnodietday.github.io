@@ -223,10 +223,10 @@
 			bmiFeet = parseInt($this.find('input.feet').val(), 10),
 			bmiInches = parseInt($this.find('input.inches').val(), 10),
 			bmiInches = bmiInches ? bmiInches : 0,
-			bodyHeightInMeter = bmiFeet +  bmiInches,
+			bodyHeightInMeter = bmiFeet,
 			bmiWeightInPound = parseInt($this.find('.weight').val(), 10),
 			bodyWeightInKG = bmiWeightInPound,
-			BMI = bmiWeightInPound / (bodyHeightInMeter * bodyHeightInMeter),
+			BMI = bodyWeightInKG / (bodyHeightInMeter * bodyHeightInMeter),
 			roundBMI=Math.round(BMI * 100) / 100;
 		
 		$result.text(roundBMI);
