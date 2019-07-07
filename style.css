@@ -1678,6 +1678,11 @@ button.btn_one {
 	.container {
 		width: 300px;
 	}
+
+	.sn_reciepe_imgnutri{
+		display: none;
+	}
+	
 	.header_area .container{
 		display: none!important;
 	}
