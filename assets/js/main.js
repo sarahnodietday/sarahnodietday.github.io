@@ -226,7 +226,7 @@
 			bodyHeightInMeter = ((bmiFeet) +  bmiInches),
 			bmiWeightInPound = parseInt($this.find('.weight').val(), 10),
 			bodyWeightInKG = bmiWeightInPound,
-			BMI = bodyWeightInKG / (bodyHeightInMeter * bodyHeightInMeter),
+			BMI = bmiWeightInPoun/ (bodyHeightInMeter * bodyHeightInMeter),
 			roundBMI=Math.round(BMI * 100) / 100;
 		
 		$result.text(roundBMI);
