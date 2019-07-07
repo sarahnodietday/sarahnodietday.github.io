@@ -225,7 +225,7 @@
 			BMI = bmiWeightInPound / (bmiFeet * bmiFeet),
 			roundBMI=Math.round(BMI * 100) / 100;
 		
-		$result.text(bmiWeightInPound);
+		$result.text(bmiFeet);
 	});
     
     //Ajax Contact Form Start
