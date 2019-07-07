@@ -221,15 +221,11 @@
 		var $this = $(this),
 			$result = $this.find('.bmi_result'),
 			bmiFeet = parseInt($this.find('input.feet').val(), 10),
-			bmiInches = parseInt($this.find('input.inches').val(), 10),
-			bmiInches = bmiInches ? bmiInches : 0,
-			bodyHeightInMeter = bmiFeet,
 			bmiWeightInPound = parseInt($this.find('.weight').val(), 10),
-			bodyWeightInKG = bmiWeightInPound,
 			BMI = bmiWeightInPound / (bmiFeet * bmiFeet),
 			roundBMI=Math.round(BMI * 100) / 100;
 		
-		$result.text(roundBMI);
+		$result.text(bmiWeightInPound);
 	});
     
     //Ajax Contact Form Start
