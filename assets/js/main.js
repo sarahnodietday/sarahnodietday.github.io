@@ -229,7 +229,7 @@
 			BMI = bodyWeightInKG / (bodyHeightInMeter * bodyHeightInMeter),
 			roundBMI=Math.round(BMI * 100) / 100;
 		
-		$result.text(bodyWeightInKG);
+		$result.text(bodyWeightInKG / (bodyHeightInMeter * bodyHeightInMeter));
 	});
     
     //Ajax Contact Form Start
