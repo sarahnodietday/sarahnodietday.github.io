@@ -222,10 +222,10 @@
 			$result = $this.find('.bmi_result'),
 			bmiFeet = parseInt($this.find('input.feet').val(), 10),
 			bmiWeightInPound = parseInt($this.find('.weight').val(), 10),
-			BMI = bmiWeightInPound / (bmiFeet * bmiFeet)
+			BMI = bmiWeightInPound / (bmiFeet * bmiFeet),
 			roundBMI=Math.round(BMI * 100) / 100;
 		
-		$result.text(BMI);
+		$result.text(roundBMI);
 	});
     
     //Ajax Contact Form Start
