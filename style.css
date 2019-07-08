@@ -903,6 +903,9 @@ form.search_hover {
 } */
 
 .calculator_bg {
+	border: 10px solid rgba(136, 192, 87, 0.2);
+	border-radius: 50%;
+	display: inline-block;
 	position: absolute;
 	right: 0;
 	top: 152px;
@@ -915,6 +918,7 @@ form.search_hover {
 }
 .calculator_bg img{
 	height: 100%;
+	border-radius: 50%;
 }
 
 .for_height > h2, .for_weight > h2 {
