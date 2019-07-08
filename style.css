@@ -407,6 +407,11 @@ form.search_hover {
 	-webkit-transform: scaleY(1);
 	transform: scaleY(1);
 }
+/* body{
+	max-width: 1170px;
+	margin: 0 auto !important;
+	float: none !important;
+} */
 /*=======================================
 			End Need To Do CSS
 ========================================*/
@@ -623,6 +628,7 @@ form.search_hover {
 }
 .subscribe_section {
 	line-height: 261px;
+	
 }
 .contact_no a {
 	color: #88c057;
@@ -893,6 +899,9 @@ form.search_hover {
 
 .calculator_area{
 	position: relative;
+	max-width: 1170px;
+	margin: 0 auto !important;
+	float: none !important;
 }
 
 /* .calculator_bg{
@@ -901,6 +910,7 @@ form.search_hover {
 	top: 152px;
 	width: calc(50% + 83px);
 	height: calc(100% - 232px);
+
 } */
 
 .calculator_bg {
