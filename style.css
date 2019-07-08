@@ -1687,7 +1687,7 @@ button.btn_one {
 	}
 
 	.sn_reciepe_imgnutri{
-    max-width: 60%;
+    max-width: auto;
     height: auto;
 }
 	
