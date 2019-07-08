@@ -1686,8 +1686,10 @@ button.btn_one {
 	}
 
 	.sn_reciepe_imgnutri{
-		display: none;
-	}
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
 	
 	.header_area .container{
 		display: none!important;
