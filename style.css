@@ -1479,8 +1479,9 @@ button.btn_one {
 	display: inline-block;
 }
 .mean-container .mean-nav ul {
-	margin: 33px 0 0;
+	margin: 50px 0 0;
 }
+/* cetait 33 */
 .mean-container a.meanmenu-reveal span {
   width: 20px;
 	background: #333;
