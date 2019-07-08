@@ -346,6 +346,11 @@ form.search_hover {
 	margin-right: 52px;
 }
 
+div {
+    border: px solid black;
+    width: 70px;
+    white-space:nowrap;
+}
 /*=======================================
 			End Banner CSS
 ========================================*/
