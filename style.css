@@ -905,6 +905,7 @@ form.search_hover {
 .calculator_bg {
 	display: inline-block;
 	position: absolute;
+	box-shadow: inset 0px 0px 10px rgba(0,0,0,0.6);
 	right: 0;
 	top: 152px;
 	width: calc(50% + 83px);
