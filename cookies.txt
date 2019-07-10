@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+trashme3.wixsite.com	TRUE	/monsite	FALSE	1999999999	svSession	056c000b811077cc05e7639f3971cfc07a75c2318e73c9023e727fca83a24c70d48ee1018afad629c7dc66c9ed015dab1e60994d53964e647acf431e4f798bcde13ba99f7780bb5dc40bb71a387275e3a8ac90f79f980eba158d556494b6b21b
+trashme3.wixsite.com	TRUE	/monsite	FALSE	1999999999	TS01e881cb	0141ccf485a6ef09b1ea7d1605fb8c2b03cd9c9baceb14c2034b9183722bc11c0e5a7e291e06a6f854c51426863b54c98799b42234
+www.bordeaux-dieteticienne-nutritionniste.fr	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1562458776|7qEYSS1UmZ5q
+www.bordeaux-dieteticienne-nutritionniste.fr	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss"
+www.bordeaux-dieteticienne-nutritionniste.fr	TRUE	/	FALSE	1999999999	svSession	ecfa3a54ffccbba5d3186c58866666b7573b4a51316f146320dc081bf662ac71ee39df12a796b46b2ac455823cae2d391e60994d53964e647acf431e4f798bcd6b55dd27d2b2816ef9c5c3aa1207d6dc082a24cc8d5c0db5cb6f4ac6ae3de177
+www.bordeaux-dieteticienne-nutritionniste.fr	TRUE	/	FALSE	1999999999	hs	178580477
+www.bordeaux-dieteticienne-nutritionniste.fr	TRUE	/	FALSE	1999999999	TS01e85bed	0141ccf48563e45e32ef6b06ba0a873070a0fa61f8a83048ace0559e61e40edcc0cb0d5f6b97e1bdd6fff8be06e217d773fdc04431
+www.bordeaux-dieteticienne-nutritionniste.fr	TRUE	/	FALSE	1999999999	TS01c84ed0	0141ccf48563e45e32ef6b06ba0a873070a0fa61f8a83048ace0559e61e40edcc0cb0d5f6b97e1bdd6fff8be06e217d773fdc04431
+trashme3.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1562741904|lJbyGRjeAr4c
+trashme3.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss"
+trashme3.wixsite.com	TRUE	/	FALSE	1999999999	hs	2095418452
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	0141ccf485a6ef09b1ea7d1605fb8c2b03cd9c9baceb14c2034b9183722bc11c0e5a7e291e06a6f854c51426863b54c98799b42234
+
